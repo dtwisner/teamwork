@@ -9,5 +9,5 @@ def main():
     print("A pull request is a moment to review, before we use a merge strategy to add our changes.")
 
 
-if __name__ == "__main__"
+if __name__ == "__main__":
     main()
