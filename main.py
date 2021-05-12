@@ -9,5 +9,6 @@ def main():
     print("A pull request is a moment to review, before we use a merge strategy to add our changes.")
 
 
+# boiler plate code
 if __name__ == "__main__":
     main()
